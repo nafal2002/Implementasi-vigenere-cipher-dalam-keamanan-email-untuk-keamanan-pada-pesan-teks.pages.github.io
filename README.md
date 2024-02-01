@@ -1,6 +1,5 @@
 # Implementasi Vigenere Cipher dalam Keamanan Email untuk Keamanan Pada Pesan Teks
-email-logo-png-gmail.png
-![logo email](/email-logo-png-gmail.png)
+<img src="/email-logo-png-gmail.png" width="200" height="50">
 
 ## Deskripsi
 
