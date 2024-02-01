@@ -19,7 +19,7 @@ Program akan meminta Anda memasukkan teks plain dan kunci. Setelah itu, program 
 ## LOA
 ![Vigenere Cipher Diagram](LOA.jpeg)
 ## Sertifikat pemakalah saintek-3
-![sertifikat pemakalah sainteks-3](SERTIFIKAT.jpeg)
+![sertifikat pemakalah sainteks-3](SERTIFIKAT.jpg)
 
 ## Kesimpulan
 
