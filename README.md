@@ -14,7 +14,7 @@ Jalankan perintah python3 vigenere_cipher.py untuk menjalankan program.
 ## Penggunaan
 Program akan meminta Anda memasukkan teks plain dan kunci. Setelah itu, program akan menghasilkan teks cipher yang dapat digunakan sebagai enkripsi untuk pesan email. Untuk dekripsi, gunakan kunci yang sama dan masukkan teks cipher untuk mendapatkan teks plain asli.
 ## Contoh
-![Vigenere Cipher Diagram](images/vigenere-cipher-diagram.png)
+![Vigenere Cipher Diagram](vigenere-cipher-diagram.jpeg)
 
 ## Kesimpulan
 
